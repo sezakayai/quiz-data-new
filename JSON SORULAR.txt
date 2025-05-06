@@ -1,0 +1,44 @@
+{
+"questions": [
+{
+"question": "Türkiye'nin başkenti neresidir?",
+"options": [
+"İstanbul",
+"Ankara",
+"İzmir",
+"Antalya"
+],
+"answer": "Ankara"
+},
+{
+"question": "Dünyanın en büyük okyanusu hangisidir?",
+"options": [
+"Atlantik Okyanusu",
+"Hint Okyanusu",
+"Arktik Okyanusu",
+"Pasifik Okyanusu"
+],
+"answer": "Pasifik Okyanusu"
+},
+{
+"question": "Python hangi tür programlama dilidir?",
+"options": [
+"Yüksek Seviye",
+"Düşük Seviye",
+"Makine Dili",
+"Veritabanı Dili"
+],
+"answer": "Yüksek Seviye"
+},
+{
+"question": "En büyük gezegen hangisidir?",
+"options": [
+"Venüs",
+"Jüpiter",
+"Mars",
+"Satürn"
+],
+"answer": "Jüpiter"
+}
+]
+}
